@@ -90,19 +90,19 @@ The dataset contains medical attributes such as:
 # 📊 Visual Analysis
 
 ## Dataset Preview
-![Dataset Preview](images/dataset_preview.png)
+[Dataset Preview](images/dataset_preview.png)
 
 ## Heart Disease Distribution
-![Target Distribution](images/target_distribution.png)
+[Target Distribution](images/target_distribution.png)
 
 ## Feature Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+[Correlation Heatmap](images/correlation_heatmap.png)
 
 ## Age vs Cholesterol
-![Age vs Cholesterol](images/age_vs_cholesterol.png)
+[Age vs Cholesterol](images/age_vs_cholesterol.png)
 
 ## Model Accuracy
-![Model Accuracy](images/model_accuracy.png)
+[Model Accuracy](images/model_accuracy.png)
 
 
 
