@@ -90,7 +90,7 @@ The dataset contains medical attributes such as:
 # 📊 Visual Analysis
 
 ## Dataset Preview
-[Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](images/dataset_preview.png)
 
 ## Heart Disease Distribution
 [Target Distribution](images/target_distribution.png)
