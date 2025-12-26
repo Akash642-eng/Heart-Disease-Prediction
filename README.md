@@ -49,7 +49,7 @@ The dataset contains medical attributes such as:
 
 ---
 
-## 🛠 Technologies Used
+# 🛠 Technologies Used
 
 - Python 🐍
 - Jupyter Notebook 📓
@@ -87,9 +87,30 @@ The dataset contains medical attributes such as:
 > Accuracy may vary based on dataset split.
 
 ---
+# 📊 Visual Analysis
+
+## Dataset Preview
+![Dataset Preview](images/dataset_preview.png)
+
+## Heart Disease Distribution
+![Target Distribution](images/target_distribution.png)
+
+## Feature Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+## Age vs Cholesterol
+![Age vs Cholesterol](images/age_vs_cholesterol.png)
+
+## Model Accuracy
+![Model Accuracy](images/model_accuracy.png)
+
+
+
+
+---
 
 # 🚀 How to Run the Project
 
-### Step 1: Clone the repository
+## Step 1: Clone the repository
 ```bash
 git clone https://github.com/Akash642-eng/Heart-Disease-Prediction.git
